@@ -1,0 +1,29 @@
+.myApp{
+    display:flex;
+}
+.content{
+    width: 100%;
+}
+.mysidebar{
+    min-height: 700px;
+}
+.mypost{
+    margin: 20px 50px;
+}
+.mytags{
+    margin:3px;
+}
+.mydlticon{
+    font-size: 30px;
+
+}
+.myreactions {
+   
+    margin: 3px;
+    padding: 5px 10px; 
+  }
+  .create-post{
+    width:80%;
+    margin-left: 8%;
+    margin-top: 3%;
+  }
